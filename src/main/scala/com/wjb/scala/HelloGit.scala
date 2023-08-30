@@ -9,6 +9,6 @@ object HelloGit {
 
   def main(args: Array[String]): Unit = {
     println("hello git master 1")
+    println("hello git master 2")
   }
-
 }
