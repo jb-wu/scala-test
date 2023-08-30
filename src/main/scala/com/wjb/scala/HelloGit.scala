@@ -13,5 +13,7 @@ object HelloGit {
     println("hello git hot-fix")
 
     println("hello git master 3")
+
+    println("hello git hot-fix2")
   }
 }
